@@ -1,1 +1,1 @@
-# Atividadest-tecnicas-de-desemvolvimento-de-sistema
+# Atividades-tecnicas-de-desemvolvimento-de-sistema
